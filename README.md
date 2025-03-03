@@ -93,7 +93,7 @@ Contact
 
     For any inquiries or contributions, feel free to reach out!
     
-    Email: ofcsomu@email.com
+    Email: ofcsomu@gmail.com
     
     GitHub: https://github.com/Somesh4444
     
