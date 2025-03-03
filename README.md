@@ -58,9 +58,9 @@ Usage
 
 Admin Panel
 
-    Login: Admins can log in using their credentials.
+    Login: Admins can log in using their credentials. (Username - admin@gmail.com, Password - admin123)
 
-    Manage Authors: Add, edit, or remove authors.
+    Manage Authors: Add, edit, or remove authors.(Username - santanu@gmail.com, Password - author123)
 
     Manage Posts: Approve, edit, or delete blog posts.
 
